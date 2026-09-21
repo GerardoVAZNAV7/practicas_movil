@@ -17,8 +17,10 @@ Cada práctica se encuentra organizada en su propio directorio dentro de este re
 
 ```text
 /
-├── Practica01-Nombre/   # Descripción breve de la práctica
-├── Practica02-Nombre/   # Descripción breve de la práctica
+├── Practica01/   # Hola Mundo interactivo
+├── Practica02/   # Calculadora Basica
+├── Practica03/   # Intent y Navegacion
+├── Practica04/   # Controles Avanzados
 └── ...
 ```
 
