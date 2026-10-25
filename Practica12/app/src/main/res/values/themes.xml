@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Practica12" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#15151E</item>
+    </style>
+</resources>

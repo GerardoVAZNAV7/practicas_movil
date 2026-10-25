@@ -32,3 +32,7 @@ $RECYCLE.BIN/
 
 # ===== Editores =====
 .vscode/
+evidencia/
+**/evidencia/
+Practica*/evidencia/
+
